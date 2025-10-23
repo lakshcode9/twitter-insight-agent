@@ -1,0 +1,4 @@
+crewai[tools]
+python-dotenv
+tweepy
+textblob
