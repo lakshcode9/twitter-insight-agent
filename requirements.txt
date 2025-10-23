@@ -1,3 +1,6 @@
 python-dotenv
 tweepy
 textblob
+requests
+beautifulsoup4
+openai
