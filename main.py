@@ -1,4 +1,3 @@
-import os
 from dotenv import load_dotenv
 from agent import run_twitter_analysis
 
